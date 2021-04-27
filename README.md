@@ -1,2 +1,2 @@
 # photos
-https://rachellpotter.github.io/photos/
+https://rachellpotter.github.io/poster/
